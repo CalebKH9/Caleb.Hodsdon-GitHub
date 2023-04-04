@@ -1,1 +1,1 @@
-
+In creating models that could be used to help predict game outcomes in the NBA I quickly found that getting premade data sets that had all of the stats I needed for my models was impossible. This led me to having to make my own data set so that I could have the data needed for each team an an average across the league. I achived this through webscrapping season long stats that are kept updated.
